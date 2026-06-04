@@ -2,7 +2,7 @@ CS @ UT Austin · Actively seeking SWE internships
 
 Rising junior studying Computer Science at The University of Texas at Austin. I've spent the last year deep in systems work — OS internals, filesystems, virtual memory — and I'm currently building out new projects while actively looking for SWE internship opportunities.
 
-Tech Stack: Java, Python, C, XCode, HTMl, CSS, R Code
+Tech Stack: Java, Python, C, XCode, HTMl, CSS, R Code, Javascript
 
 Some of the projects I have are linked down below!
 Projects:
